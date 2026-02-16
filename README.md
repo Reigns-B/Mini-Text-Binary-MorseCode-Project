@@ -33,12 +33,10 @@ This project demonstrates basic **text encoding**, **string manipulation**, and 
 
 ## ⭐ Like My Work?
 
-If you enjoy my projects:
-
-- ⭐ Star the repositories
+If you like it:
+- ⭐ Star the repository
 - 🔁 Fork & explore
-- 🤝 Connect with me on socials above
-
+- 🤝 Follow for more
 ---
 
 <p align="center">
