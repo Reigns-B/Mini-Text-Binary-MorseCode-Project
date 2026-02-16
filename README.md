@@ -1,4 +1,4 @@
-# 🔤 TextToBinaryandMorsecode
+# TextToBinaryandMorsecode
 
 A **Java mini project** that converts plain text into **Binary** and **Morse Code** formats.  
 This project demonstrates basic **text encoding**, **string manipulation**, and **algorithmic logic** using Java.
