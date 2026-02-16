@@ -25,6 +25,11 @@ This project demonstrates basic **text encoding**, **string manipulation**, and 
   - Maps / Arrays (for Morse code mapping)
 
 ---
+<p align="center">
+  <strong>Below is a sample Output</strong>
+</p>
+
+<img width="778" height="235" alt="image" src="https://github.com/user-attachments/assets/1f37d07c-aa21-45dd-bb80-c40ae464adfb" />
 
 ## ⭐ Like My Work?
 
